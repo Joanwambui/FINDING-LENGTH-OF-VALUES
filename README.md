@@ -1,6 +1,8 @@
 # FINDING-LENGTH-OF-VALUES
 
 "PROBLEM STATEMENT:
-Find length of comma seperated values in items field"				
+Find length of comma seperated values in items field			
 				
-![image](https://github.com/Joanwambui/FINDING-LENGTH-OF-VALUES/assets/112846283/b014ca63-6a72-420c-bc3b-c79565c1f1fa)
+
+![image](https://github.com/Joanwambui/FINDING-LENGTH-OF-VALUES/assets/112846283/4e31e0db-899a-4b17-8813-16d886410e24)
+
